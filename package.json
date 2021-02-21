@@ -1,0 +1,26 @@
+{
+  "name": "server_chat",
+  "version": "1.0.0",
+  "description": "begin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thevu4496/server1.git"
+  },
+  "author": "thangnt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thevu4496/server1/issues"
+  },
+  "homepage": "https://github.com/thevu4496/server1#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "lodash": "^4.17.21",
+    "request": "^2.81.0",
+    "socket.io": "^2.0.3"
+  }
+}
